@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_7" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<levels>
+		<level name="Maven: org.nfctools:nfctools-core:1.0.M8" value="project"/>
+		<level name="Maven: org.nfctools:nfctools-ndef:1.0.M8" value="project"/>
+		<level name="Maven: org.nfctools:nfctools-api:1.0.M8" value="project"/>
+		<level name="Maven: org.slf4j:slf4j-api:1.5.10" value="project"/>
+		<level name="Maven: ch.qos.logback:logback-classic:0.9.18" value="project"/>
+		<level name="Maven: ch.qos.logback:logback-core:0.9.18" value="project"/>
+	</levels>
+</component>
